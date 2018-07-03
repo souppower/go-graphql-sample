@@ -1,0 +1,4 @@
+{
+    "User": "github.com/souppower/go-graphql-sample/graph.User",
+    "Todo": "github.com/souppower/go-graphql-sample/graph.Todo"
+}
